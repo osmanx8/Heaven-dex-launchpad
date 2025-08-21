@@ -5,7 +5,8 @@
 - Create wsol account on bot start if it doesn't exist.
 - Check pool mints on bot start.
 - Added support for Heaven Dex(https://heaven.xyz/). You can define pool using heaven_pool_list.
-  
+  <img width="1885" height="919" alt="heaven" src="https://github.com/user-attachments/assets/79b688ea-05cc-4563-a127-52e434ff16b4" />
+
 
 ## Contact
 
