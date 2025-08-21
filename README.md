@@ -2,6 +2,11 @@
 
 🚀 **Heaven DEX Launchpad Trading Bot** – create and swap directly from Heaven DEX Launchpad  
 
+- Create wsol account on bot start if it doesn't exist.
+- Check pool mints on bot start.
+- Added support for Heaven Dex(https://heaven.xyz/). You can define pool using heaven_pool_list.
+  
+
 ## Contact
 
 If you have any question, feel free to contact me here:  
